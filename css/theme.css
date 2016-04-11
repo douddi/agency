@@ -434,7 +434,7 @@ nav hr {
   bottom: 7px;
 }
 .logo.logo-wide {
-  max-width: 140px;
+  max-width: 200px;
   bottom: 12px;
   margin-bottom: -6px;
 }
@@ -658,6 +658,7 @@ nav hr {
   color: #333333;
 }
 .offscreen-menu .logo {
+  margin-top: 18px;
   padding-bottom: 32px;
 }
 .offscreen-toggle i {
