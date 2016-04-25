@@ -429,7 +429,7 @@ nav hr {
   top: 0;
 }
 .top-bar .logo {
-  max-width: 80px;
+  max-width: 123px;
   position: relative;
   bottom: 7px;
 }
@@ -2811,7 +2811,7 @@ footer.short-2 .contact-action:hover {
     display: none;
   }
   nav {
-    max-height: 80px;
+    /* max-height: 80px; */
     overflow: hidden;
     -webkit-transition: all .5s ease;
     -moz-transition: all .5s ease;
